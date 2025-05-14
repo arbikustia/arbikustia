@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm arbi kustia</h1>
 <h3 align="center">A passionate frontend developer from indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [https://arbikustia.netlify.app](https://arbikustia.netlify.app)
 
 - 💬 Ask me about **react, typescript, html, css**
 
 - 📫 How to reach me **arbikustia14@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YYdKGQE0_ADEPNRumvXxGpYOBP8e0Mui/view?usp=share_link](https://drive.google.com/file/d/1YYdKGQE0_ADEPNRumvXxGpYOBP8e0Mui/view?usp=share_link)
 
 - ⚡ Fun fact **I think i am human**
 
